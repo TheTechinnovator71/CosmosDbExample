@@ -66,7 +66,7 @@ MongoClient.connect(url,
 {
   auth: {
    user: 'first-cosmos-db',
-   password: 'YvCZba88avLzUsR58rQMvPrdcRN0Da16rZXNXkim5eQYCSYbd4wrNtpaxjrS1pZ88RBKv5w6M4QEBPEDLay1tw==',
+   password: '',
   }
 },
 function(err, db ) {
